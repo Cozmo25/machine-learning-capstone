@@ -40,7 +40,7 @@ The following packages and data are required in order to reproduce the visualisa
 
 The relevant files included in the submission are:
 
-Predicting Cancer Project.ipynb: Data manipulation and model creation.
+Predicting Cancer Project.ipynb: Data manipulation and model creation
 EDA.ipynb: Exploratory Data Analysis
 Capstone Project Report.pdf: Project Report
 
